@@ -1,5 +1,2 @@
-# tarea-git-y-github
-
-nombre :Abraham Alejandro Ayala Cabrales 
-
-hobbies: ver peliculas, salir , ecoturismo
+# tarea-git-y-github 
+lo que espero del bootcamp es crer mis habilidades en el desarrollo web
